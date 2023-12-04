@@ -1,6 +1,7 @@
 
 <h1>
-$\text{\color{green} {Hello 👋,}\color{purple} \textit{I am E.H. Farhan Sakib.} \color{green} {A Passionate Competitive Programmer.} }$
+$$\text{\color{green} {Hello 👋,}\color{purple} \textit{I am E.H. Farhan Sakib.} \color{green} {A Passionate }}$$ 
+ $$\text{\color{green} {Competitive Programmer.} }$$
 </h1>
 <h2 align="center"><i> Computer Science & Engineering </i></h2>
 
