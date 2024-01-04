@@ -22,28 +22,7 @@ $$\textit{\color{blue} {University Of Barishal}}$$
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/farhan-sakib-4b363525a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan sakib" height="30" width="40" />Linkedin</a>
-<br><br>
-<a href="https://www.facebook.com/profile.php?id=100011986725617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhan sakib" height="30" width="40" />Facebook</a> 
- <br><br>
-<a href="https://www.codechef.com/users/farhan_sakib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="farhan_sakib" height="30" width="40" />CODECHEF</a>
- <br><br>
-<a href="https://www.hackerrank.com/profile/sakib_06_33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sakib_06_33" height="30" width="40" />HackerRank</a>
- <br><br>
-<a href="https://codeforces.com/profile/GIVE_UP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="GIVE_UP" height="30" width="40"/>CODEFORCES</a>
-  <br><br>
-<a href="https://leetcode.com/Farhan_Sakib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Farhan_Sakib" height="30" width="40" />LeetCode</a>
- <br><br>
-<a href="https://www.hackerearth.com/@farhan147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@farhan147" height="30" width="40" />HackerEarth</a>
-<br><br>
-
-<a href="https://atcoder.jp/users/GIVE_UP" target="blank"><img align="center" src="https://img.atcoder.jp/assets/icon/avatar.png" alt="@farhan147" height="30" width="40" /> AtCoder</a>
-<br><br>
-
-<a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3" target="blank"><img align="center" src="https://onlinejudge.org/templates/hm_yaml_2_5/img/ojlogo2.svg.png" alt="@farhan147" height="30" width="40" /> UVA </a>
-<br><br>
-
-<a href="https://toph.co/u/Farhan_Sakib" target="blank"><img align="center" src="https://static.toph.co/images/logo.png?_=f76bdcf12c6acbf239a6e1b395ce7729b71e6c25" alt="Farhan_Sakib" height="30" width="40" /> Toph </a>
+  <a href="https://www.linkedin.com/in/farhan-sakib-4b363525a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan sakib" height="30" width="40" />Linkedin</a>          <a href="https://www.facebook.com/profile.php?id=100011986725617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhan sakib" height="30" width="40" />Facebook</a> <a href="https://www.codechef.com/users/farhan_sakib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="farhan_sakib" height="30" width="40" />CODECHEF</a><a href="https://www.hackerrank.com/profile/sakib_06_33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sakib_06_33" height="30" width="40" />HackerRank</a><a href="https://codeforces.com/profile/GIVE_UP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="GIVE_UP" height="30" width="40"/>CODEFORCES</a><a href="https://leetcode.com/Farhan_Sakib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Farhan_Sakib" height="30" width="40" />LeetCode</a><a href="https://www.hackerearth.com/@farhan147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@farhan147" height="30" width="40" />HackerEarth</a><a href="https://atcoder.jp/users/GIVE_UP" target="blank"><img align="center" src="https://img.atcoder.jp/assets/icon/avatar.png" alt="@farhan147" height="30" width="40" /> AtCoder</a> <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3" target="blank"><img align="center" src="https://onlinejudge.org/templates/hm_yaml_2_5/img/ojlogo2.svg.png" alt="@farhan147" height="30" width="40" /> UVA </a> <a href="https://toph.co/u/Farhan_Sakib" target="blank"><img align="center" src="https://static.toph.co/images/logo.png?_=f76bdcf12c6acbf239a6e1b395ce7729b71e6c25" alt="Farhan_Sakib" height="30" width="40" /> Toph </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
